@@ -1,0 +1,28 @@
+Para que essa rotina possa ser usada você deverá seguir os seguintes passos:
+1 - Crie no Drive C a pasta IPM "C:\IPM"
+2 - Acesse o endereço:  "https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-2020-censo4.html?=&t=microdados"
+3 - Entre no link "Censo 2000" e "Censo 2010" e faça o dowload dos arquivos por unidade da federação. Para o caso da Amazônia Legal será utilizado os Estados na seguinte ordem: Rondônia, Acre, Amazonas, Roraima, Pará, Amapá, Tocantins, Maranhão e Mato Grosso.
+4 - Ao baixar os dados, para o ano de 2000 o nome do arquivo terá a seguinte nomeclatura: 
+                Arquivo;  Descompactado   | Arquivo;  Descompactado     
+4.1. Rondônia - "RO.zip";  "Dom11.txt", "FAMI11.txt","Pes11.txt" 
+4.2. Acre -   	"AC.zip";  "Dom12.txt", "FAMI12.txt","Pes12.txt"  
+4.3. Amazonas - "AM.zip";  "Dom13.txt", "FAMI13.txt","Pes13.txt" 
+4.4. Roraima -  "RR.zip";  "Dom14.txt", "FAMI14.txt","Pes14.txt" 
+4.5. Pará -   	"PA.zip";  "Dom15.txt", "FAMI15.txt","Pes15.txt" 
+4.6. Amapá -   	"AP.zip";  "Dom16.txt", "FAMI16.txt","Pes16.txt" 
+4.7. Tocantins -"TO.zip";  "Dom17.txt", "FAMI17.txt","Pes17.txt" 
+4.8. Maranhão - "MA.zip";  "Dom21.txt", "FAMI21.txt","Pes21.txt" 
+4.9. Mato Grosso - "MT.zip";  "Dom51.txt", "FAMI51.txt","Pes51.txt" | "MT.zip"; "Amostra_Domicilios_51.txt", "Amostra_Emigracao_51.txt", "Amostra_Mortalidade_51.txt", "Amostra_Pessoas_51.txt" 
+
+5 - Ao baixar os dados para o ano de 2010 o nome do arquivo terá a seguinte nomeclatura:
+5.1. Rondônia - "RO.zip"; "Amostra_Domicilios_11.txt", "Amostra_Emigracao_11.txt", "Amostra_Mortalidade_11.txt", "Amostra_Pessoas_11.txt" 
+5.2. Acre -   	"AC.zip"; "Amostra_Domicilios_12.txt", "Amostra_Emigracao_12.txt", "Amostra_Mortalidade_12.txt", "Amostra_Pessoas_12.txt" 
+5.3. Amazonas - "AM.zip"; "Amostra_Domicilios_13.txt", "Amostra_Emigracao_13.txt", "Amostra_Mortalidade_13.txt", "Amostra_Pessoas_13.txt" 
+5.5. Roraima -  "RR.zip"; "Amostra_Domicilios_15.txt", "Amostra_Emigracao_15.txt", "Amostra_Mortalidade_15.txt", "Amostra_Pessoas_15.txt" 
+5.5. Pará -   	"PA.zip"; "Amostra_Domicilios_15.txt", "Amostra_Emigracao_15.txt", "Amostra_Mortalidade_15.txt", "Amostra_Pessoas_15.txt" 
+5.6. Amapá -   	"AP.zip"; "Amostra_Domicilios_16.txt", "Amostra_Emigracao_16.txt", "Amostra_Mortalidade_16.txt", "Amostra_Pessoas_16.txt" 
+5.7. Tocantins -"TO.zip"; "Amostra_Domicilios_17.txt", "Amostra_Emigracao_17.txt", "Amostra_Mortalidade_17.txt", "Amostra_Pessoas_17.txt" 
+5.8. Maranhão - "MA.zip"; "Amostra_Domicilios_21.txt", "Amostra_Emigracao_21.txt", "Amostra_Mortalidade_21.txt", "Amostra_Pessoas_21.txt" 
+5.9. Mato Grosso - "MT.zip"; "Amostra_Domicilios_51.txt", "Amostra_Emigracao_51.txt", "Amostra_Mortalidade_51.txt", "Amostra_Pessoas_51.txt" 
+
+6 - Após seguir os 5 passos anteriores pode colocar a rotina para rodar. A mesma em um computador com 20gb de RAM, core i7 de sétima geração demora por volta de 8 horas para rodar.
