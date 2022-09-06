@@ -7,7 +7,7 @@ de forma coletiva, por um conjunto amplo e interdisciplinar de especialistas inc
 Os detalhes do IPM-Trajetórias e os primeiros resultados são descritos em: SANTOS, R. B. N. dos; DAL'ASTA, A. P.; VOGT, C. de M.; ALVES, V. da P.; SOUZA, A. R. de; ESCADA, M. I. S.; FERNANDES, D. A.; RODRIGUES, D. L.; LANA, R. M.; NEVES, T. C.; MONTEIRO, A. M. V. Indicadores de probreza e alternativas de desenvolvimento para a Amazônina: um debate necessário. XIX Seminário de Diamantina, Diamantina, Setembro, 2022.  
 
 
-**Contato:** email ricardo
+**Contato:** ricardobns@gmail.com
 
 ## Detalhes
 
@@ -17,10 +17,7 @@ Os detalhes do IPM-Trajetórias e os primeiros resultados são descritos em: SAN
 
 **Base de dados:** Microdados do questionário da amostra dos Censos Demográficos de 2000 e 2010
 
-**Arquivos:** Rotina_Data_Paper - descreve o acesso aos dados e os passos iniciais para executar a rotina, com a construção dos indicadores e cômputo do IPM-Trajetórias.
+**Arquivos:** Rotina_Observacoes.txt - descreve o acesso e a preparação dos dados e os passos iniciais para executar a rotina.
+Rotina_Consolidada.R - apresenta a rotina para a construção dos indicadores e o cômputo do IPM-Trajetórias a nível municipal.
 
 **Para o uso desse conjunto de dados citar:** SANTOS, R. B. N. dos; DAL'ASTA, A. P.; VOGT, C. de M.; ALVES, V. da P.; SOUZA, A. R. de; ESCADA, M. I. S.; FERNANDES, D. A.; RODRIGUES, D. L.; LANA, R. M.; NEVES, T. C.; MONTEIRO, A. M. V. Indicadores de probreza e alternativas de desenvolvimento para a Amazônina: um debate necessário. XIX Seminário de Diamantina, Diamantina, Setembro, 2022.
-
-
-
-[Rotina Data Paper.txt](https://github.com/anapdalasta/IPM-Trajetorias-/files/9491844/Rotina.Data.Paper.txt)
