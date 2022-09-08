@@ -21,7 +21,7 @@ Rotina_Consolidada.R - apresenta a rotina para a construção dos indicadores e 
 
 ##
 
-### MPI-Trajetorias (english)
+## MPI-Trajetorias (english)
 
 This repository presents the routine in R for the construction of the Multidimensional Poverty Index (MPI) developed in the context of the **Project Trajetorias - Ecosystem Services as Health Service: Competitive trajectories for land use in the Amazon biome and its link to vector-borne diseases** (http://www.sinbiose.cnpq.br/web/sinbiose/projetos-e-resultados). The **MPI-Trajetorias** adopted the methodological path proposed by Santos et al. (2016) and was built collectively by a broad, interdisciplinary set of experts including epidemiologists, physicians, economists, ecologists, biologists, geographers and social scientists. 
 The details of the MPI-Trajetorias and the first results are described in: SANTOS, R. B. N. dos; DAL'ASTA, A. P.; VOGT, C. de M.; ALVES, V. da P.; SOUZA, A. R. de; ESCADA, M. I. S.; FERNANDES, D. A.; RODRIGUES, D. L.; LANA, R. M.; NEVES, T. C.; MONTEIRO, A. M. V. *Indicadores de probreza e alternativas de desenvolvimento para a Amazônina: um debate necessário.* XIX Seminário de Diamantina, Diamantina, September, 2022. ( Poverty indicators and development alternatives for Amazonia: a necessary debate.)
