@@ -36,3 +36,8 @@ The details of the MPI-Trajetorias and the first results are described in: SANTO
 Rotina_Consolidada.R - presents the routine for building indicators and calculating the MPI-Trajetorias at the municipal level.
 
 **For the use of this dataset, please cite:** SANTOS, R. B. N. dos; DAL'ASTA, A. P.; VOGT, C. de M.; ALVES, V. da P.; SOUZA, A. R. de; ESCADA, M. I. S.; FERNANDES, D. A.; RODRIGUES, D. L.; LANA, R. M.; NEVES, T. C.; MONTEIRO, A. M. V. *Indicadores de probreza e alternativas de desenvolvimento para a Amazônina: um debate necessário.* XIX Seminário de Diamantina, Diamantina, Setembro, 2022.
+
+
+
+### References
+SANTOS, R. B. N.; RODRIGUES, D. L.; DANILO ARAÚJO FERNANDES, D. A., E SANTOS, F. T. P.  (2016). Diferenças da pobreza multidimensional urbana e rural na Amazônia Legal entre 2000 e 2010.  54o Congresso da Soc. Bras. de Economia, Admn. e Sociologia Rural. 14 a 17 de Agosto de 2016, UFAL, Alagoas.
